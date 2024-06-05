@@ -2,6 +2,10 @@
 
 The Cash Register project is a web-based application that simulates a basic cash register system. It's designed to help users manage sales transactions by calculating totals, taxes, and change. This project is a great way to practice HTML, CSS, and JavaScript skills.
 
+## Screenshots
+
+![App Screenshot](./screenshots/cashregister.png)
+
 ## Features
 
 - Add items with their prices to the transaction.
